@@ -1,8 +1,9 @@
 <html>
 <body>
   
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Hello</h1>
+<p>This is my website.</p>
+<p>I'm gonna actually make stuff here later</p>
 
 </body>
 </html> 
